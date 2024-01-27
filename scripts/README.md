@@ -1,10 +1,10 @@
 ##  How to use the plugin
 
-Make the script runnable 
+Make the script runnable\
 `$chmod =x kubeplugin`
 
-Run the script
+Run the script\
 `$bash <resource-type> <namespace> [kubectl-options]`
 
-For example
+For example\
 `$bash kubeplugin pods argocd`
