@@ -1,7 +1,7 @@
 ##  How to use the plugin
 
 Make the script runnable\
-`$chmod =x kubeplugin`
+`$chmod +x kubeplugin`
 
 Run the script\
 `$bash <resource-type> <namespace> [kubectl-options]`
