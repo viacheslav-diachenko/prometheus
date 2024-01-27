@@ -1,4 +1,4 @@
-##How to use the plugin##
+##How to use the plugin
 
 Make the script runnable 
 `$chmod =x kubeplugin`
